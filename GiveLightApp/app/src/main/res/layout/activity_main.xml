@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context="light.give.givelightapp.MainActivity">
+
+    <TextView
+        android:id="@+id/about"
+        style="@style/Category"
+        android:background="@color/about"
+        android:text="@string/about" />
+
+    <TextView
+        android:id="@+id/projects"
+        style="@style/Category"
+        android:background="@color/projects"
+        android:text="@string/projects" />
+
+    <TextView
+        android:id="@+id/events"
+        style="@style/Category"
+        android:background="@color/events"
+        android:text="@string/events" />
+
+    <TextView
+        android:id="@+id/getinvolved"
+        style="@style/Category"
+        android:background="@color/getinvolved"
+        android:text="@string/getinvolved" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/donate_button"
+        android:scaleType="center"
+        android:paddingTop="40dp"/>
+
+</LinearLayout>

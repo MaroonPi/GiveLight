@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GiveLight App</string>
+    <string name="about">About Us</string>
+    <string name="projects">Our Projects</string>
+    <string name="events">Upcoming Events</string>
+    <string name="getinvolved">Get Involved</string>
+    <string name="about1st">Our Mission</string>
+    <string name="about2nd">Our Story</string>
+    <string name="about3rd">Founder and President</string>
+    <string name="about4th">Our Team</string>
+    <string name="about5th">Speaking Engagements</string>
+    <string name="about6th">Testimonials</string>
+    <string name="about7th">Newsroom</string>
+    <string name="about8th">Our Model</string>
+    <string name="about9th">FAQs</string>
+    <string name="about10th">Publications</string>
+
+</resources>

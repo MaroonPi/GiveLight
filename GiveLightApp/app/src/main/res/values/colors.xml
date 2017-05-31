@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <color name="background">#FFF7DA</color>
+    <color name="about">#FD8E09</color>
+    <color name="projects">#379237</color>
+    <color name="events">#8800A0</color>
+    <color name="getinvolved">#16AFCA</color>
+    <color name="donate">#563059</color>
+</resources>
